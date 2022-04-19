@@ -42,8 +42,6 @@
     i assume that strlength is even
 
 
-github:
-sorry sir i couldn't able to push folder into github since it is showing
-unsolvable errors and showing permission denied errors
-i worked hard i couldnt resolve it
+github link:https://github.com/saisurvi123/asssignment1
+
 
